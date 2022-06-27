@@ -1,0 +1,55 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "registerUserName": "Bekzodbek",
+      "registerUserLName": "Sirojiddinova",
+      "registerUserEmail": "adss@gmail.com",
+      "registerUserPsw": "12341232312312"
+    },
+    {
+      "id": 2,
+      "registerUserName": "Bekzodbek",
+      "registerUserLName": "Sirojiddinova",
+      "registerUserEmail": "adss@gmail.com",
+      "registerUserPsw": "12341232312312"
+    },
+    {
+      "id": 3,
+      "registerUserName": "Bekzodbek",
+      "registerUserLName": "Sirojiddinova",
+      "registerUserEmail": "adss@gmail.com",
+      "registerUserPsw": "12341232312312"
+    },
+    {
+      "id": 4,
+      "registerUserName": "Yusufbek",
+      "registerUserLName": "Odiljonov",
+      "registerUserEmail": "begzodbek@gmail.com",
+      "registerUserPsw": "12345678"
+    },
+    {
+      "id": 5,
+      "registerUserName": "Yusufbek",
+      "registerUserLName": "Odiljonov",
+      "registerUserEmail": "begzodbek@gmail.com",
+      "registerUserPsw": "12345678"
+    },
+    {
+      "id": 6,
+      "registerUserName": "Xalimjon",
+      "registerUserLName": "Iskandarov",
+      "registerUserEmail": "xalibjon@gmail.com",
+      "registerUserPsw": "12345678sb"
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "adminName": "Xumoyun",
+      "adminLastname": "Abdusatorov",
+      "adminEmail": "somewherea8@gmail.com",
+      "adminPassword": "12345678"
+    }
+  ]
+}
